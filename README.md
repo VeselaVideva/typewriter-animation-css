@@ -16,6 +16,6 @@ CSS Variables:
 Preview of the Typewriter Animation: 
 
 
-![Preview of the animation](https://github.com/tsvetislavt99/typewriter-animation-css/blob/master/AnimationGIF.gif?raw=true)
+![Preview of the animation](https://github.com/VeselaVideva/typewriter-animation-css/blob/master/AnimationGIF.gif?raw=true)
 
 
